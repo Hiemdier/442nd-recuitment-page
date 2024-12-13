@@ -1,2 +1,5 @@
-# 442nd-recuitment-page
-Recruitment webpage for the 442nd Siege Battalion Arma 3 StarSim unit. This is a work-in-progress page.
+# 442nd Recuitment Webpage
+
+## Description
+
+This is the Work-In-Progress 442nd Siege Battalion Arma3 StarSim recuitment webpage. This webpage is going to become a full website for the 442nd SB. Currently just a simple HTML and CSS file.
